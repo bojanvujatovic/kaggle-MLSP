@@ -1,0 +1,228 @@
+Class:  0
+  Params: n =  50  d =  7 --> Score:  0.843537414966
+  Params: n =  50  d =  15 --> Score:  0.837188208617
+  Params: n =  50  d =  30 --> Score:  0.892517006803
+  Params: n =  100  d =  7 --> Score:  0.844444444444
+  Params: n =  100  d =  15 --> Score:  0.838548752834
+  Params: n =  100  d =  30 --> Score:  0.885941043084
+  Params: n =  200  d =  7 --> Score:  0.840362811791
+  Params: n =  200  d =  15 --> Score:  0.846258503401
+  Params: n =  200  d =  30 --> Score:  0.88843537415
+
+  Params chosen: n =  50  d =  30
+Class:  1
+  Params: n =  50  d =  7 --> Score:  0.820109507218
+  Params: n =  50  d =  15 --> Score:  0.830662020906
+  Params: n =  50  d =  30 --> Score:  0.830761572922
+  Params: n =  100  d =  7 --> Score:  0.818118466899
+  Params: n =  100  d =  15 --> Score:  0.822399203584
+  Params: n =  100  d =  30 --> Score:  0.83275261324
+  Params: n =  200  d =  7 --> Score:  0.818616226979
+  Params: n =  200  d =  15 --> Score:  0.829069188651
+  Params: n =  200  d =  30 --> Score:  0.831259333001
+
+  Params chosen: n =  100  d =  30
+Class:  2
+  Params: n =  50  d =  7 --> Score:  0.75652586616
+  Params: n =  50  d =  15 --> Score:  0.75652586616
+  Params: n =  50  d =  30 --> Score:  0.75573485208
+  Params: n =  100  d =  7 --> Score:  0.748773928176
+  Params: n =  100  d =  15 --> Score:  0.74861572536
+  Params: n =  100  d =  30 --> Score:  0.779307071666
+  Params: n =  200  d =  7 --> Score:  0.748457522544
+  Params: n =  200  d =  15 --> Score:  0.75177978168
+  Params: n =  200  d =  30 --> Score:  0.74782471128
+
+  Params chosen: n =  100  d =  30
+Class:  3
+  Params: n =  50  d =  7 --> Score:  0.193396226415
+  Params: n =  50  d =  15 --> Score:  0.272798742138
+  Params: n =  50  d =  30 --> Score:  0.252358490566
+  Params: n =  100  d =  7 --> Score:  0.191037735849
+  Params: n =  100  d =  15 --> Score:  0.213050314465
+  Params: n =  100  d =  30 --> Score:  0.254716981132
+  Params: n =  200  d =  7 --> Score:  0.172169811321
+  Params: n =  200  d =  15 --> Score:  0.239779874214
+  Params: n =  200  d =  30 --> Score:  0.26572327044
+
+  Params chosen: n =  50  d =  15
+Class:  4
+  Params: n =  50  d =  7 --> Score:  0.711227284043
+  Params: n =  50  d =  15 --> Score:  0.711227284043
+  Params: n =  50  d =  30 --> Score:  0.756036843415
+  Params: n =  100  d =  7 --> Score:  0.712471994025
+  Params: n =  100  d =  15 --> Score:  0.722927557879
+  Params: n =  100  d =  30 --> Score:  0.731889469754
+  Params: n =  200  d =  7 --> Score:  0.772715957182
+  Params: n =  200  d =  15 --> Score:  0.719442369928
+  Params: n =  200  d =  30 --> Score:  0.720936021907
+
+  Params chosen: n =  200  d =  7
+Class:  5
+  Params: n =  50  d =  7 --> Score:  0.65525477707
+  Params: n =  50  d =  15 --> Score:  0.726512738854
+  Params: n =  50  d =  30 --> Score:  0.714371019108
+  Params: n =  100  d =  7 --> Score:  0.64928343949
+  Params: n =  100  d =  15 --> Score:  0.758957006369
+  Params: n =  100  d =  30 --> Score:  0.720143312102
+  Params: n =  200  d =  7 --> Score:  0.72571656051
+  Params: n =  200  d =  15 --> Score:  0.822651273885
+  Params: n =  200  d =  30 --> Score:  0.726313694268
+
+  Params chosen: n =  200  d =  15
+Class:  6
+  Params: n =  50  d =  7 --> Score:  0.649292929293
+  Params: n =  50  d =  15 --> Score:  0.620875420875
+  Params: n =  50  d =  30 --> Score:  0.657104377104
+  Params: n =  100  d =  7 --> Score:  0.635555555556
+  Params: n =  100  d =  15 --> Score:  0.630572390572
+  Params: n =  100  d =  30 --> Score:  0.651313131313
+  Params: n =  200  d =  7 --> Score:  0.633400673401
+  Params: n =  200  d =  15 --> Score:  0.654141414141
+  Params: n =  200  d =  30 --> Score:  0.63595959596
+
+  Params chosen: n =  50  d =  30
+Class:  7
+  Params: n =  50  d =  7 --> Score:  0.493484848485
+  Params: n =  50  d =  15 --> Score:  0.545757575758
+  Params: n =  50  d =  30 --> Score:  0.518484848485
+  Params: n =  100  d =  7 --> Score:  0.552424242424
+  Params: n =  100  d =  15 --> Score:  0.562575757576
+  Params: n =  100  d =  30 --> Score:  0.540303030303
+  Params: n =  200  d =  7 --> Score:  0.55803030303
+  Params: n =  200  d =  15 --> Score:  0.544090909091
+  Params: n =  200  d =  30 --> Score:  0.550606060606
+
+  Params chosen: n =  100  d =  15
+Class:  8
+  Params: n =  50  d =  7 --> Score:  0.876191597034
+  Params: n =  50  d =  15 --> Score:  0.875485465458
+  Params: n =  50  d =  30 --> Score:  0.871601741791
+  Params: n =  100  d =  7 --> Score:  0.892550311875
+  Params: n =  100  d =  15 --> Score:  0.876662351418
+  Params: n =  100  d =  30 --> Score:  0.887607390844
+  Params: n =  200  d =  7 --> Score:  0.869954101448
+  Params: n =  200  d =  15 --> Score:  0.874426268095
+  Params: n =  200  d =  30 --> Score:  0.853006943627
+
+  Params chosen: n =  100  d =  7
+Class:  9
+  Params: n =  50  d =  7 --> Score:  0.711515151515
+  Params: n =  50  d =  15 --> Score:  0.716632996633
+  Params: n =  50  d =  30 --> Score:  0.742895622896
+  Params: n =  100  d =  7 --> Score:  0.698585858586
+  Params: n =  100  d =  15 --> Score:  0.678787878788
+  Params: n =  100  d =  30 --> Score:  0.665050505051
+  Params: n =  200  d =  7 --> Score:  0.703838383838
+  Params: n =  200  d =  15 --> Score:  0.686060606061
+  Params: n =  200  d =  30 --> Score:  0.717575757576
+
+  Params chosen: n =  50  d =  30
+Class:  10
+  Params: n =  50  d =  7 --> Score:  0.737827034884
+  Params: n =  50  d =  15 --> Score:  0.739583333333
+  Params: n =  50  d =  30 --> Score:  0.753391472868
+  Params: n =  100  d =  7 --> Score:  0.753391472868
+  Params: n =  100  d =  15 --> Score:  0.748970445736
+  Params: n =  100  d =  30 --> Score:  0.734132751938
+  Params: n =  200  d =  7 --> Score:  0.741703003876
+  Params: n =  200  d =  15 --> Score:  0.741400193798
+  Params: n =  200  d =  30 --> Score:  0.732437015504
+
+  Params chosen: n =  50  d =  30
+Class:  11
+  Params: n =  50  d =  7 --> Score:  0.745967741935
+  Params: n =  50  d =  15 --> Score:  0.752150537634
+  Params: n =  50  d =  30 --> Score:  0.809946236559
+  Params: n =  100  d =  7 --> Score:  0.787096774194
+  Params: n =  100  d =  15 --> Score:  0.796774193548
+  Params: n =  100  d =  30 --> Score:  0.813978494624
+  Params: n =  200  d =  7 --> Score:  0.791397849462
+  Params: n =  200  d =  15 --> Score:  0.801612903226
+  Params: n =  200  d =  30 --> Score:  0.761827956989
+
+  Params chosen: n =  100  d =  30
+Class:  12
+  Params: n =  50  d =  7 --> Score:  0.766264619883
+  Params: n =  50  d =  15 --> Score:  0.747076023392
+  Params: n =  50  d =  30 --> Score:  0.803728070175
+  Params: n =  100  d =  7 --> Score:  0.797514619883
+  Params: n =  100  d =  15 --> Score:  0.77759502924
+  Params: n =  100  d =  30 --> Score:  0.811403508772
+  Params: n =  200  d =  7 --> Score:  0.793859649123
+  Params: n =  200  d =  15 --> Score:  0.801535087719
+  Params: n =  200  d =  30 --> Score:  0.791666666667
+
+  Params chosen: n =  100  d =  30
+Class:  13
+  Params: n =  50  d =  7 --> Score:  0.951740506329
+  Params: n =  50  d =  15 --> Score:  0.955168776371
+  Params: n =  50  d =  30 --> Score:  0.973101265823
+  Params: n =  100  d =  7 --> Score:  0.972573839662
+  Params: n =  100  d =  15 --> Score:  0.955168776371
+  Params: n =  100  d =  30 --> Score:  0.961497890295
+  Params: n =  200  d =  7 --> Score:  0.965981012658
+  Params: n =  200  d =  15 --> Score:  0.965981012658
+  Params: n =  200  d =  30 --> Score:  0.961497890295
+
+  Params chosen: n =  50  d =  30
+Class:  14
+  Params: n =  50  d =  7 --> Score:  0.704495614035
+  Params: n =  50  d =  15 --> Score:  0.758771929825
+  Params: n =  50  d =  30 --> Score:  0.741228070175
+  Params: n =  100  d =  7 --> Score:  0.753289473684
+  Params: n =  100  d =  15 --> Score:  0.758954678363
+  Params: n =  100  d =  30 --> Score:  0.789839181287
+  Params: n =  200  d =  7 --> Score:  0.760599415205
+  Params: n =  200  d =  15 --> Score:  0.78125
+  Params: n =  200  d =  30 --> Score:  0.759320175439
+
+  Params chosen: n =  100  d =  30
+Class:  15
+  Params: n =  50  d =  7 --> Score:  0.559315286624
+  Params: n =  50  d =  15 --> Score:  0.668988853503
+  Params: n =  50  d =  30 --> Score:  0.75497611465
+  Params: n =  100  d =  7 --> Score:  0.500796178344
+  Params: n =  100  d =  15 --> Score:  0.763335987261
+  Params: n =  100  d =  30 --> Score:  0.715366242038
+  Params: n =  200  d =  7 --> Score:  0.641719745223
+  Params: n =  200  d =  15 --> Score:  0.766321656051
+  Params: n =  200  d =  30 --> Score:  0.797770700637
+
+  Params chosen: n =  200  d =  30
+Class:  16
+  Params: n =  50  d =  7 --> Score:  0.39465408805
+  Params: n =  50  d =  15 --> Score:  0.130110062893
+  Params: n =  50  d =  30 --> Score:  0.490566037736
+  Params: n =  100  d =  7 --> Score:  0.328616352201
+  Params: n =  100  d =  15 --> Score:  0.307389937107
+  Params: n =  100  d =  30 --> Score:  0.315251572327
+  Params: n =  200  d =  7 --> Score:  0.469339622642
+  Params: n =  200  d =  15 --> Score:  0.477201257862
+  Params: n =  200  d =  30 --> Score:  0.478380503145
+
+  Params chosen: n =  50  d =  30
+Class:  17
+  Params: n =  50  d =  7 --> Score:  0.650843881857
+  Params: n =  50  d =  15 --> Score:  0.591244725738
+  Params: n =  50  d =  30 --> Score:  0.604957805907
+  Params: n =  100  d =  7 --> Score:  0.654535864979
+  Params: n =  100  d =  15 --> Score:  0.553797468354
+  Params: n =  100  d =  30 --> Score:  0.579113924051
+  Params: n =  200  d =  7 --> Score:  0.505274261603
+  Params: n =  200  d =  15 --> Score:  0.678797468354
+  Params: n =  200  d =  30 --> Score:  0.711497890295
+
+  Params chosen: n =  200  d =  30
+Class:  18
+  Params: n =  50  d =  7 --> Score:  0.716094771242
+  Params: n =  50  d =  15 --> Score:  0.792892156863
+  Params: n =  50  d =  30 --> Score:  0.734477124183
+  Params: n =  100  d =  7 --> Score:  0.727124183007
+  Params: n =  100  d =  15 --> Score:  0.78125
+  Params: n =  100  d =  30 --> Score:  0.811683006536
+  Params: n =  200  d =  7 --> Score:  0.724468954248
+  Params: n =  200  d =  15 --> Score:  0.740604575163
+  Params: n =  200  d =  30 --> Score:  0.73539624183
+
+  Params chosen: n =  100  d =  30
